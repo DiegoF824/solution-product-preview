@@ -1,0 +1,14 @@
+@media (max-width: 26.5625em) {
+    .container {
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+
+    .container picture img {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .container .info {
+        max-width: 100%;
+    }
+}
